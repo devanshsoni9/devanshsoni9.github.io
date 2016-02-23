@@ -1,9 +1,9 @@
 <Response>
-<Say voice="alice">
-Hello folks.How are you doing today.
-</Say>
+  <Say voice="alice">
+  Hello folks.How are you doing today.
+  </Say>
 <Pause length="1"/>
-<Say voice="alice">
-You pressed a key. Have a nice day
-</Say>
+  <Say voice="alice">
+  You pressed a key. Have a nice day.
+  </Say>
 </Response>

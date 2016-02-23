@@ -1,9 +1,2 @@
-<Response>
-  <Say voice="alice">
-  Hello folks.How are you doing today.
-  </Say>
-<Pause length="1"/>
-  <Say voice="alice">
-  You pressed a key. Have a nice day.
-  </Say>
-</Response>
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Say voice="alice">Hi. How are you today.</Say><Pause length="1"/><Say voice="alice">Have a nice day ahead.</Say></Response>
